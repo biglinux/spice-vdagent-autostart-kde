@@ -1,9 +1,8 @@
 [Desktop Entry]
 Name=Spice vdagent
 Comment=Agent for Spice guests
-Exec=/usr/bin/spice-vdagent
+Exec=/usr/bin/spice-vdagent -x
 Terminal=false
 Type=Application
 Categories=
-NotShowIn=GNOME
 NoDisplay=true
